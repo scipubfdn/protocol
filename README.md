@@ -1,2 +1,3 @@
-# ipp
-The Interplanetary Publishing Protocol (IPP) is a way for academics and scientists to self-publish their research to a decentralized and redundant global filesystem, using existing infrastructure.
+# IntPub — The Interplanetary Publishing Protocol
+
+The Interplanetary Publishing Protocol (IntPub) is a tool researchers, academics, and scientists can use to self-publish their works on uncensorable & decentralized networks. The protocol is a a scholarship-oriented bridge between existing technologies.
