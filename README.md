@@ -14,4 +14,4 @@ The Interplanetary Publishing Protocol (IntPub) is a tool researchers, academics
 
 ### Multiple Publisher Flow
 
-![multiple_publishers](/Users/sebmellen/top/10-19_Development/13_IntPub/13.03_protocol/schematics/multiple_publishers.svg)
+![multiple_publishers](schematics/multiple_publishers.svg)
